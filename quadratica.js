@@ -2,7 +2,7 @@ let a = 1;
 let b = -2;
 let c = -3;
 
-let delta = (b * b - ( 4 * a * c ) );
+let delta = (b ** 2 - ( 4 * a * c ) );
 
 let raizdelta = Math.pow(delta, 0.5);
 
