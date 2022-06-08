@@ -17,4 +17,3 @@ console.log(x1);
 console.log(x2);
 console.log(raizdelta);
 console.log(k);
-

@@ -1,4 +1,4 @@
-let idade = 18
+let idade = 16
 let bebidaMaior = "cerveja"
 let bebidaMenor = "suco"
 
